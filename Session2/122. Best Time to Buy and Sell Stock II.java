@@ -1,3 +1,4 @@
+package Session2;
 class Solution {
     public int maxProfit(int[] prices) {
         int maxprofit = 0;
